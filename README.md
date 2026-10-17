@@ -1,71 +1,29 @@
-# China-s-Smart-Agricultural-AI-Going-Global 仓库说明文档
+<div align="right">
 
-> 一句话简介：中国智慧农业 AI 出海研究方向 · 技术优势/全球市场/落地路径与合作生态梳理
+**[English](README.md)** · [简体中文](README.zh-CN.md)
 
-> 本说明基于对该仓库 `main` 分支全部文件的实际逐文件读取整理而成。
+</div>
 
-## 一、项目概述与定位
+# China's Smart Agricultural AI Going Global
 
-`China's Smart Agricultural AI Going Global`（中国智慧农业 AI 出海）是一个**方向性/研究主题型仓库**，而非可运行的软件项目。它聚焦"中国智慧农业 AI 技术的出海与国际化"，旨在梳理中国在农业人工智能领域的技术优势、应用场景与全球落地路径，服务"一带一路"沿线国家与全球农业现代化需求。
+Research notes on taking Chinese agricultural AI products to overseas markets.
 
-从内容看，这是一个**早期阶段（Status: Early Stage）的主题倡议/知识汇总型仓库**，目前仅含一份 README 纲领，尚未沉淀实际的报告、代码或数据集。
+<sub>Markdown · research notes</sub>
 
-- 许可证：内容采用 **CC BY 4.0**（转载需注明出处）
-- 仓库规模：实际仅 1 个文件（README.md，2913 字节），纯 Markdown，无二进制资源、无代码
-- 目标口号："让中国智慧农业技术，惠及全球每一寸土地"。
+---
 
-## 二、核心方向与议题
+## What it covers
 
-README 明确的四个核心方向：
-- **技术出海**——中国智慧农业 AI 技术、产品、解决方案的国际化输出；
-- **场景落地**——面向不同国家农业场景的适应性改造与落地；
-- **标准共建**——参与全球智慧农业标准制定，输出中国方案；
-- **合作生态**——联合海外农业企业、科研机构、政府部门共同推进。
+Where Chinese agricultural AI has an export advantage, and where it does not. The notes look at:
 
-三大核心议题板块：
-1. **中国智慧农业技术优势**：农业大模型与智能感知、无人机植保与精准农业、农业物联网与大数据平台、农产品质量溯源系统、智慧养殖与植物工厂；
-2. **全球市场机遇**："一带一路"沿线国家农业现代化需求、东南亚/非洲/拉美等新兴市场、气候变化下的农业韧性需求、粮食安全与高效农业的全球共识；
-3. **出海模式探索**：技术授权与联合研发、示范项目落地与复制推广、人才培养与能力建设、标准输出与认证互认、跨境电商与农业数字化贸易。
+- Which product categories travel well across markets and which are bound to local conditions
+- Regulatory and data constraints that differ by destination
+- The gap between technical capability and what a foreign buyer will actually purchase
 
-## 三、技术栈与依赖
+## Note
 
-本仓库不含任何代码或可执行内容，无技术栈与运行依赖。它是一个内容/研究方向的纲领性占位仓库。
+Notes rather than conclusions — the document set is still growing, and each section states its sources so a claim can be re-checked later.
 
-## 四、完整目录结构
+## License
 
-```
-China-s-Smart-Agricultural-AI-Going-Global/
-└── README.md        # 唯一文件，项目纲领（2913 字节）
-```
-
-根目录经实际列目录核实，**仅有 README.md 一个文件，无任何子目录**。
-
-## 五、关键文件解读：`README.md`
-
-这是仓库目前唯一的内容，结构为：
-- 项目标题与一句话定位；
-- 四个徽章（Agriculture-Smart Green / AI-Deep Learning / Global-Going Worldwide / Status-Early Stage）；
-- 项目简介与四大核心方向；
-- 三大核心议题（技术优势 / 全球市场机遇 / 出海模式探索）；
-- **项目规划（待办清单）**：计划持续更新"行业研究报告与市场分析、中国智慧农业技术图谱、海外目标市场调研、典型出海案例研究、政策法规与合规指南、技术适配与本地化方案、合作机会与资源对接"七类内容（均为未勾选的 `[ ]` 待办）；
-- 目标受众：农业科技企业出海团队、智慧农业产品经理与技术人员、农业投资与咨询从业者、国际发展与合作机构、相关研究者与学生；
-- 合作交流方式（Issue/Fork）、CC BY 4.0 许可说明、项目地址链接。
-
-## 六、运行 / 使用方式
-
-无运行方式。它是一个供关注者了解方向、贡献研究与案例的主题仓库；参与方式为提 Issue、Fork 后贡献内容。
-
-## 七、适用场景与项目特点
-
-- **适用**：农业科技出海团队、智慧农业产品/技术人员、农业投资咨询、国际发展合作机构及相关研究者了解该主题方向；
-- **特点**：
-  - 纯纲领/倡议性质，处于早期阶段，规划了七类待产出内容但尚未落地；
-  - 定位偏宏观议题（技术优势、市场机遇、出海模式、标准共建），而非具体产品或算法；
-  - 内容以 CC BY 4.0 开放发布，鼓励协作与转载。
-
-## 八、读取情况小结
-
-- 已读取文本文件：**1 个**（`README.md`）；
-- 二进制文件：**0 个**；
-- 目录树条目总数：**1 个**（仅根目录 README.md，无子目录）；
-- 未能读取的文件：无。
+MIT
